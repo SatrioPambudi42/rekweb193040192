@@ -1,0 +1,25 @@
+.foto {
+  width: 100px;
+}
+.table > tbody > tr > * {
+  vertical-align: middle;
+}
+.img {
+  width: 248px;
+}
+.card-body {
+  text-align: middle;
+}
+.navbar-brand {
+  font-size: 30px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+h1 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+p {
+  font-size: 20px;
+}
+.navbar {
+  background-attachment: fixed;
+}
